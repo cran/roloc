@@ -1,0 +1,52 @@
+
+importFrom("grDevices", "col2rgb", "palette", "rgb", "chull", "n2mfrow")
+importFrom("methods", "as", "is")
+importFrom("parallel", "mclapply", "detectCores")
+import("colorspace")
+
+export("colourMatch",
+       "colorMatch",
+
+       "colourName",
+       "colorName",
+       "colourNames",
+       "colorNames",
+
+       "colourList",
+       "colorList",
+       "Rcolours",
+       "X11colours",
+       "SVGcolours",
+       "CSScolours",
+       "HTMLcolours",
+       "ReseneColours",
+       "simpleColours",
+       "NgaTae",
+       # Aliases
+       "Rcolors",
+       "X11colors",
+       "SVGcolors",
+       "CSScolors",
+       "HTMLcolors",
+       "ReseneColors",
+       "simpleColors",
+
+       "euclideanDistance",
+       "euclideanLUV",
+       "euclideanRGB",
+
+       ## "colourPlot",
+       "colourSwatch",
+       "colourSwatches",
+       ## Aliases
+       ## "colorPlot",
+       "colorSwatch",
+       "colorSwatches"
+       )
+
+S3method("colourNames", "default")
+S3method("colourNames", "colourMatch")
+S3method("colourSwatch", "default")
+S3method("colourSwatch", "colourMatch")
+S3method("colourSwatches", "default")
+S3method("colourSwatches", "colourMatch")
