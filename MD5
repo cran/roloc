@@ -1,4 +1,4 @@
-998a63d7d41ebc9e949cd369ec44b4a4 *DESCRIPTION
+a570274f9467cbce50cc01805e4cdb1e *DESCRIPTION
 1efa470cd0a8fed6032364bca9abe66c *NAMESPACE
 6ac3656938c946f23ade9e5b0bbfae64 *R/colourLists.R
 e34a35f0e766013acf4d40290ce207c2 *R/colourMatch.R
@@ -7,7 +7,7 @@ c3256c723b5c8bf849295981530ab3cd *R/colourMetric.R
 551b5963026962ef6dbdde8daa7668a1 *R/colourPlot.R
 ce5ccb79c9f43e51e594c370adfae9ec *R/zzz.R
 fb864af2ea25591f7df512b14a9c3eea *README.md
-93c5b17d55de8f6fcb36755e98ef9003 *build/partial.rdb
+b6a0d8af16749a342bf1a82d162a4696 *build/partial.rdb
 14979af7a1f293a09273c1ba1cb8c276 *inst/Dictionaries/NBS-ISCC-rgb.txt
 97bddc72108176922bc7c601d26f216e *inst/Dictionaries/Resene-2010-rgb.txt
 8b6558fd4a225a69c426032e01942040 *man/HTMLcolours.Rd
@@ -20,7 +20,7 @@ dbb8f1981031724cfae992d9bfaa8875 *man/colourList.Rd
 c03103682eaa5fa834d956eeacab2f7e *man/colourName.Rd
 40c14cbd664b223a209d2dc5217b9045 *man/colourSwatch.Rd
 61416c81a650bc4eb3f10dff289a1765 *man/euclidean.Rd
-748e2223080a7220b70576fe0a3ab044 *man/roloc-package.Rd
+793c3faa1d89e7a46047d367e35437d4 *man/roloc-package.Rd
 7375e96ee0e00243d3bf6a54aa030368 *man/simpleColours.Rd
 5fa6db9664d9f2028d13ac4667adc3f4 *tests/testthat.R
 c32cf145978af4090e97faf5a3d87631 *tests/testthat/test-colourName.R

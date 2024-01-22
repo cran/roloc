@@ -23,11 +23,14 @@ one or more colour specifications and returns a matching colour name.
 Maintainer: \packageMaintainer{roloc}
 }
 \references{
-~~ Literature or other references for background information ~~
+Murrell, P. (2018). "Generating Colour Names: The 'roloc' Package for R."
+Technical Report 2018-01, Department of Statistics, The University of
+Auckland.
+\url{https://www.stat.auckland.ac.nz/~paul/Reports/roloc/intro/roloc.html}
 }
 \keyword{ package }
 \seealso{
-~~ Optional links to other man pages, e.g. ~~
+  \code{\link{colourName}}
 }
 \examples{
 colourName("#FF0000")
